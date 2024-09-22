@@ -14,6 +14,7 @@ AutoEUServerless 是一个基于腾讯云函数 Serverless 架构的自动化工
 大家都应该有一只德鸡,即乌龟壳之后唯一的一个永久免费VPS。  
 但是头疼的是必须每个月要续订,而且本身就是白嫖鸡,难道要再开一个鸡跑脚本来给它续订?  
 于是本项目诞生了,支持使用腾讯云函数或AWS工作流,自动续订你的德鸡并且对接Telegram推送!  
+阅读此说明并执行
 
 [Dooo.ng个人站点](https://dooo.ng)  
 [Nodeseek主页:@WizisCool](https://www.nodeseek.com/space/8902#/general)  
